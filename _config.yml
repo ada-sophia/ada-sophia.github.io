@@ -1,1 +1,8 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
+
+title: Ukrainian Catholic
+author: Ada Sophia
+
+navbar-links:
+  Calendar: "calendar"
+
