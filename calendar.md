@@ -1,16 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/5.11.3/main.min.css" rel="stylesheet">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/5.11.3/main.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Calendar</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div id="calendar"></div>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            var calendarEl = document.getElementById('calendar');
-            var calendar = new FullCalendar.Calendar(calendarEl, {
-                initialView: 'dayGridMonth'
-            });
-            calendar.render();
-        });
-    </script>
+    <div class="calendar-container">
+        <div class="calendar-header">
+            <button id="prevMonth">&lt;</button>
+            <h2 id="monthYear"></h2>
+            <button id="nextMonth">&gt;</button>
+        </div>
+        <div class="calendar">
+            <div class="weekdays">
+                <div>Sun</div><div>Mon</div><div>Tue</div><div>Wed</div>
+                <div>Thu</div><div>Fri</div><div>Sat</div>
+            </div>
+            <div class="calendar-days"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
 </body>
+</html>
