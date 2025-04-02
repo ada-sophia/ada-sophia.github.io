@@ -32,29 +32,11 @@
         .weekdays {
             display: grid;
             grid-template-columns: repeat(7, 1fr);
-            font-weight: bold;
-            margin-top: 10px;
         }
         .calendar-days {
             display: grid;
             grid-template-columns: repeat(7, 1fr);
-            gap: 5px;
-            margin-top: 10px;
         }
-        .day {
-            background: #e3e3e3;
-            padding: 10px;
-            border-radius: 5px;
-            text-align: center;
-            cursor: pointer;
-        }
-        .day:hover {
-            background: #ccc;
-        }
-        .current-day {
-            background: #ff6f61;
-            color: white;
-            font-weight: bold;
         }
     </style>
 </head>
@@ -148,13 +130,52 @@
             <td> </td>
             <td> </td>
             <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
         </tr>
         <tr>
             <td> </td>
             <td> </td>
             <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
         </tr>
         <tr>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
             <td> </td>
             <td> </td>
             <td> </td>
