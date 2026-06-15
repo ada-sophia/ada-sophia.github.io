@@ -1,3 +1,9 @@
+---
+layout: default
+title: Calendar
+permalink: /calendar/
+---
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -173,13 +179,6 @@
         </tr>
     </tbody>
 </table>
-
-
----
-layout: default
-title: Calendar
-permalink: /calendar/
----
 
 <h1>Calendar</h1>
 <div id="calendar"></div>
