@@ -1,33 +1,77 @@
 ---
 layout: home
 title: Hi, I’m Ada Liang
-subtitle: Marketing & Communications | Digital Strategy | Parish Communications
+subtitle: Marketing & Communications | Digital Strategy | Analytics & Engagement
 ---
+
+![Ada Liang] (images/profile.jpg)
 
 ## About Me
 
-I’m a marketing and communications professional specializing in digital content, email marketing, website management, and bilingual parish communications.
+Hi, I am Ada.
 
-I currently serve as Director of Communications & Marketing at Sacred Heart Catholic Parish, where I manage website updates, social media, email campaigns, and event promotion.
+I am a marketing and communications professional based in the Dallas-Fort Worth area with a B.S. in Marketing from The University of Texas at Dallas. My experience includes communications strategy, website management, email marketing, stakeholder communications, community engagement, analytics reporting, and event promotion.
+
+In my current role as Director of Communications & Marketing, I serve as the sole communications lead for a multi-audience organization. I manage end-to-end communications across web, email, social media, and print, ensuring messaging is consistent, accessible, and aligned with organizational goals. I also track engagement metrics to evaluate communication effectiveness and guide outreach strategy.
+
+I enjoy combining creative communication with data-driven decision-making to improve engagement and strengthen connections between organizations and their audiences.
+
+---
+
+## Skills
+
+Marketing
+- Content Strategy
+- Social Media Management
+- Email Marketing
+- Campaign Development
+
+Communications
+- Copywriting
+- Internal & External Communications
+- Community Engagement
+- Public Speaking
+
+Analytics & Reporting
+- Email Performance Analysis
+- Audience Engagement Tracking
+- Google Analytics
+- Data Reporting
+- Excel & Google Sheets
+- Trend Analysis
+
+Technology
+- Canva
+- Affinity
+- Wix
+- Google Analytics
+- Microsoft Office
+- Google Workspace
+
+Project & Program Management
+- Event Coordination
+- Stakeholder Communication
+- Cross-Functional Collaboration
+- Process Organization
 
 ---
 
 ## What I Do
 
-### Digital Marketing & Communications
-- Email marketing (Flocknote campaigns)
-- Social media content creation and scheduling
-- Event promotion and messaging strategy
+### Communications Strategy
+- Develop communication plans for organizational initiatives
+- Coordinate messaging across multiple communication channels
+- Support stakeholder engagement through targeted outreach
 
-### Website & Content Management
-- Website updates and maintenance (Wix / GitHub Pages)
-- Content organization and page structure
-- Basic analytics tracking (Google Analytics)
+### Analytics & Reporting
+- Analyze engagement metrics and communication effectiveness
+- Track attendance, participation, and giving trends
+- Create reports to support organizational decision-making
 
-### Data & Reporting
-- Tracking attendance vs. donation trends
-- Weekly reporting for parish engagement
-- Spreadsheet-based analysis and insights
+### Website & Digital Platforms
+- Manage website content and information architecture
+- Maintain digital communication channels
+- Support online engagement initiatives
 
 ---
 
@@ -35,10 +79,10 @@ I currently serve as Director of Communications & Marketing at Sacred Heart Cath
 
 ### Sacred Heart Catholic Parish
 **Director of Communications & Marketing**
-- Managed parish website and weekly updates
-- Created bilingual English/Spanish communications
-- Designed and scheduled social media campaigns
-- Developed email outreach for parish events
+- Manage communications across website, email, social media, and print channels
+- Create bilingual communications for a diverse parish audience
+- Coordinate marketing campaigns supporting parish events and initiatives
+- Track engagement metrics and communication performance to inform outreach strategies
 
 ---
 
@@ -66,5 +110,5 @@ I currently serve as Director of Communications & Marketing at Sacred Heart Cath
 ## Contact
 
 📧 Email: adasliang@outlook.com
-📍 Dallas–Fort Worth, TX  
+📍 Plano, TX  
 🔗 LinkedIn: https://www.linkedin.com/in/ada-liang/
